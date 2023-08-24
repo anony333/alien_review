@@ -19,7 +19,7 @@ You can install the development version of alien from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("hezibu/alien")
+devtools::install_github("anony333/alien_review")
 ```
 
 ## Basic Usage
